@@ -3,12 +3,15 @@
 #Atividade Módulo 5
 
 # Nome do projeto
-Descreva aqui o seu projeto
+Comprovando a usuabilidade do Teste Unitário
 ## Instalação
-Comandos e outras informações importantes para a instalação do projeto
+Não é necessário instalar alguma biblioteca
 ## Como utilizar
-Tecnologias utilizadas no projeto
+Tecnologia default do python
 ## Comandos relevantes
-Comandos e outras informações importantes para a utilização do projeto
+Informe qualquer valor inteiro e positivo. O resultado será "fizz", caso seja divisivel por 5. Será "buzz", caso seja divisivel por 7, ou fizzbuzz" caso seja divisivel pelos dois.
+Caso o valor informado não seja divisivel por nenhum destes dois, o resultado será "miss".
 ## Outras observações
-Outros comentários relevantes para o projeto
+Sem obsevaçõs adicionais.
+
+Use com moderação.
